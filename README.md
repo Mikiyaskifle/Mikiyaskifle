@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Mobile+App+Developer;Cybersecurity+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Mobile+App+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -15,7 +15,6 @@
 💻 Software Engineer (Full-Stack & Mobile)
 📱 Flutter Developer
 🌐 MERN Stack Developer
-🔐 Cybersecurity Enthusiast
 🎓 4th Year Software Engineering Student
 
 ---
