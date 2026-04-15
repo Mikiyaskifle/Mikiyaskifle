@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikiyaskifle&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mikiyaskifle&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mikiyaskifle&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyaskifle&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
