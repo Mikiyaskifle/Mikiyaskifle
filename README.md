@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Kifle (Mikiyas)</h1>
+<h1 align="center">Mikiyas Kifle</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Welcome%20to%20My%20World&fontSize=42&fontColor=ffffff&animation=fadeIn" />
