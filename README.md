@@ -1,101 +1,145 @@
-<h1 align="center">Mikiyas Kifle</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Welcome%20to%20My%20World&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+```
+███╗   ███╗██╗██╗  ██╗██╗██╗   ██╗ █████╗ ███████╗
+████╗ ████║██║██║ ██╔╝██║╚██╗ ██╔╝██╔══██╗██╔════╝
+██╔████╔██║██║█████╔╝ ██║ ╚████╔╝ ███████║███████╗
+██║╚██╔╝██║██║██╔═██╗ ██║  ╚██╔╝  ██╔══██║╚════██║
+██║ ╚═╝ ██║██║██║  ██╗██║   ██║   ██║  ██║███████║
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Mobile+App+Developer;MERN+%7C+Flutter+%7C+AI+Explorer;Building+Real+World+Solutions" />
-</p>
+# Mikiyas Kifle
 
----
+**Software Engineer · Full-Stack & Mobile Developer · MERN · Flutter · AI Explorer**
 
-## 💫 About Me
+*Building scalable real-world systems from Addis Ababa, Ethiopia 🇪🇹*
 
-- 💻 Software Engineer (Full-Stack & Mobile Development)
-- 📱 Flutter & Android App Developer
-- 🌐 MERN Stack Developer
-- 🎓 4th Year Software Engineering Student
-- 🚀 Passionate about building scalable real-world systems
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mikiyas--kifle.vercel.app-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)](https://mikiyas-kifle.vercel.app/)
+[![GitHub followers](https://img.shields.io/github/followers/mikiyaskifle?style=for-the-badge&labelColor=161b22&color=39d353&label=Followers)](https://github.com/mikiyaskifle)
+[![Profile Views](https://komarev.com/ghpvc/?username=mikiyaskifle&style=for-the-badge&color=a371f7&labelColor=161b22)](https://github.com/mikiyaskifle)
 
----
-
-## 🌐 Portfolio
-
-🔗 [mikiyas-kifle.vercel.app](https://mikiyas-kifle.vercel.app/)
+</div>
 
 ---
 
-## 💻 Tech Stack
+## `> whoami`
 
-<p align="center">
-
-<!-- Languages -->
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- Mobile -->
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-<!-- Backend -->
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-<!-- Database -->
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</p>
+```yaml
+name        : Mikiyas Kifle
+role        : Software Engineer
+focus       : Full-Stack Web · Mobile · AI
+stack       : MERN · Flutter · TypeScript · Python
+location    : Addis Ababa, Ethiopia
+status      : 4th Year Software Engineering Student
+available   : Open to collaborate & freelance work
+portfolio   : https://mikiyas-kifle.vercel.app/
+```
 
 ---
 
-## 🐍 Contribution Snake
+## `> tech --stack`
 
-<p align="center">
-  <img src="https://github.com/mikiyaskifle/mikiyaskifle/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0d1117)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## `> git log --oneline --featured`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikiyaskifle&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyaskifle&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyaskifle&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🛒 **E-Commerce Platform** | MERN · Redux · Stripe | Full-stack marketplace with auth, real-time inventory & payments |
+| 💰 **Mobile Finance App** | Flutter · Firebase | Cross-platform budgeting & expense tracker |
+| 🤖 **AI Chat Assistant** | Next.js · OpenAI · TS | Web-based intelligent assistant using LLM APIs |
+| 🌍 **Portfolio Website** | React · Tailwind · Vercel | Personal site showcasing projects & experience |
 
----
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mikiyaskifle&icon=5&color=6" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=140&section=footer"/>
-</p>
+## `> github --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mikiyaskifle&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&ring_color=a371f7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyaskifle&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyaskifle&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a371f7&fire=39d353&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+## `> git log --graph --contributions`
+
+<div align="center">
+  <img src="https://github.com/mikiyaskifle/mikiyaskifle/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+---
+
+## `> ping --connect`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-58a6ff?style=for-the-badge&labelColor=161b22)](https://mikiyas-kifle.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/mikiyaskifle)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/mikiyaskifle)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:mikiyaskifle@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   "First, solve the problem. Then, write the code."     ║
+║                                          — John Johnson  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*Open to freelance projects, collaboration, and new opportunities.*
+
+</div>
